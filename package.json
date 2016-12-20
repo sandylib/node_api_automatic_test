@@ -1,0 +1,22 @@
+{
+  "name": "tabcorp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test/*.js",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^11.1.2"
+  },
+   "keywords": [
+    "tabcorp",
+    "bet",
+    "punter",
+    "horse"
+  ],
+  "dependencies": {}
+}
