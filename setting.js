@@ -1,3 +1,4 @@
+//comments
 var setting = {
 
     debug: true,
