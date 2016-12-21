@@ -28,12 +28,14 @@ W:  12 punters bet.
 
 P:  12 punters bet. 
 	- There're 9 punters who bet correctly on the top 3. These are :
+	
     ```
         1. 31+40+18=89
         2. 89+16+17=179
         3. 28+82+39=149
    ```
-    The whole bet amount of all 12 punters is 646. After commision drawn by Tabcorp(12%), 
+   
+   - The whole bet amount of all 12 punters is 646. After commision drawn by Tabcorp(12%), 
     There're 568.48 left. That bonus will be split into 3, each will have 189.5 
 	
 Punters bet on place 2: 189.50/179 = 1.06	
