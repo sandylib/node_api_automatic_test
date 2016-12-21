@@ -21,16 +21,18 @@ Assumptions Made When Developing the Solution
 Anatomy
 ---------------------------------------------
 
-W:  12 punters bet. There're 3 punters who bet on No.2 horse, with amount of 4, 8 and 98 respectively.
+W:  12 punters bet. 
+   - There're 3 punters who bet on No.2 horse, with amount of 4, 8 and 98 respectively.
     The whole bet amount of all 12 punters is 338. After commision drawn by Tabcorp(15%), there're 287 left. 
     So the 3 punters will split the bonus as per their propportion by 287/(4+8+98) =2.61
 
-P:  12 punters bet. There're 9 punters who bet correctly on the top 3. These are :
+P:  12 punters bet. 
+	- There're 9 punters who bet correctly on the top 3. These are :
     ```
         1. 31+40+18=89
         2. 89+16+17=179
         3. 28+82+39=149
-    ```
+   ```
     The whole bet amount of all 12 punters is 646. After commision drawn by Tabcorp(12%), 
     There're 568.48 left. That bonus will be split into 3, each will have 189.5 
 	
