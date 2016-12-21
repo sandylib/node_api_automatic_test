@@ -71,7 +71,7 @@ Sample Input Format
 Sample Output Format
 -----------------
 
-Win:2:$2.61
-Place:2:$1.06
-Place:3:$1.27
-Place:1:$2.13 
+-Win:2:$2.61
+-Place:2:$1.06
+-Place:3:$1.27
+-Place:1:$2.13 
