@@ -16,7 +16,12 @@ Running the Automated Tests
 Assumptions Made When Developing the Solution
 ---------------------------------------------
 
-- All input should be The format of bets is Bet:<product>:<selections>:<stake>. as per the sample files.
+- All input should be The format of bets is 
+ ```
+	Bet:<product>:<selections>:<stake>. 
+ 
+ ```
+ as per the sample files.
 
 Anatomy
 ---------------------------------------------
